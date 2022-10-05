@@ -11,10 +11,11 @@ ___
 ## Assignment Folder: alx-system_engineering-devops
 <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/205/image.jpg" width="100" />
 Topics:
- - Where am I ?
- - What’s in there?
- - There is no place like home
- - The long format
+
+- Where am I ?
+- What’s in there?
+- There is no place like home
+- The long format
  - Hidden files
  - I love numbers
  - Welcome
